@@ -28,6 +28,9 @@ Analizar las características de la corriente y voltaje alternos.
 ![image](https://user-images.githubusercontent.com/116780907/213629222-f5fbf1d4-76a0-4065-9c0e-fd8c6899fe10.png)
 ![image](https://user-images.githubusercontent.com/116780907/213629835-e7f8e6c4-04af-4bfb-b323-49599d276df1.png)
 
+## Explicación y Resolución de Ejercicios o Problemas
+![Deber 6_page-0001](https://user-images.githubusercontent.com/116780907/213632765-5efa8aaf-7734-4ea3-9d48-a2aa5727e33c.jpg)
+
 
 
 
