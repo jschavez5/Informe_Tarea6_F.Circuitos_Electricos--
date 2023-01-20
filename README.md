@@ -37,13 +37,13 @@ Analizar las características de la corriente y voltaje alternos.
 ![Deber 6_page-0006](https://user-images.githubusercontent.com/116780907/213633579-098242cb-81c7-4387-a893-db71875a6224.jpg)
 ![Deber 6_page-0007](https://user-images.githubusercontent.com/116780907/213633674-f9440b72-c3aa-47ee-81eb-a0f0c0e86a32.jpg)
 ![Deber 6_page-0008](https://user-images.githubusercontent.com/116780907/213633729-8c0b39a6-80a4-4f1c-a077-b4220a214406.jpg)
-![Deber 6_page-0009](https://user-images.githubusercontent.com/116780907/213633761-6c679db6-807c-4261-a622-ce2455832c82.jpg)
+![Deber 6_page-0009](https://user-images.githubusercontent.com/116780907/213634814-5bfcb912-8648-487e-8ff6-783c65c26e50.jpg)
 ![Deber 6_page-0010](https://user-images.githubusercontent.com/116780907/213633803-09f9a416-50c6-41bd-ba42-3db0eb5c1d5c.jpg)
 ![Deber 6_page-0011](https://user-images.githubusercontent.com/116780907/213633833-b2fdf9d6-6899-43a0-993b-e8e0d92a67ff.jpg)
-![Deber 6_page-0012](https://user-images.githubusercontent.com/116780907/213633874-4e3c922a-e8e8-424e-81e8-86ea18ed36f8.jpg)
+![Deber 6_page-0012](https://user-images.githubusercontent.com/116780907/213635465-8e679610-6f85-49bc-92d9-368fff1c6f92.jpg)
 ![Deber 6_page-0013](https://user-images.githubusercontent.com/116780907/213633958-bad54f07-340e-4147-bcb3-894a48670d6b.jpg)
 ![Deber 6_page-0014](https://user-images.githubusercontent.com/116780907/213633989-8598263d-2405-44ab-976f-c0f6edd69959.jpg)
-![Deber 6_page-0015](https://user-images.githubusercontent.com/116780907/213634043-0b64728e-8280-46f5-b9c2-33da8c3741da.jpg)
+![Deber 6_page-0015](https://user-images.githubusercontent.com/116780907/213635818-d3f41ee7-3a78-4594-9b1f-cc0867f67f14.jpg)
 ![Deber 6_page-0016](https://user-images.githubusercontent.com/116780907/213634101-0498d4ac-0271-47ae-9fb8-9f04ed15a2d8.jpg)
 
 # Conclusiones
