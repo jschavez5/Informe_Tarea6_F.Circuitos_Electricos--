@@ -30,23 +30,29 @@ Analizar las características de la corriente y voltaje alternos.
 
 ## Explicación y Resolución de Ejercicios o Problemas
 ![Deber 6_page-0001](https://user-images.githubusercontent.com/116780907/213632765-5efa8aaf-7734-4ea3-9d48-a2aa5727e33c.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Deber 6_page-0002](https://user-images.githubusercontent.com/116780907/213633229-11d38086-55d1-473a-9acc-0db1783bf760.jpg)
+![Deber 6_page-0003](https://user-images.githubusercontent.com/116780907/213633342-407f3334-8f68-41b1-9357-4ce9dbec5890.jpg)
+![Deber 6_page-0004](https://user-images.githubusercontent.com/116780907/213633473-ceadb42d-92d4-4b12-a9c7-2be4ba091d26.jpg)
+![Deber 6_page-0005](https://user-images.githubusercontent.com/116780907/213633521-9fb5f590-5317-45c6-854f-d98fb9dc4c69.jpg)
+![Deber 6_page-0006](https://user-images.githubusercontent.com/116780907/213633579-098242cb-81c7-4387-a893-db71875a6224.jpg)
+![Deber 6_page-0007](https://user-images.githubusercontent.com/116780907/213633674-f9440b72-c3aa-47ee-81eb-a0f0c0e86a32.jpg)
+![Deber 6_page-0008](https://user-images.githubusercontent.com/116780907/213633729-8c0b39a6-80a4-4f1c-a077-b4220a214406.jpg)
+![Deber 6_page-0009](https://user-images.githubusercontent.com/116780907/213633761-6c679db6-807c-4261-a622-ce2455832c82.jpg)
+![Deber 6_page-0010](https://user-images.githubusercontent.com/116780907/213633803-09f9a416-50c6-41bd-ba42-3db0eb5c1d5c.jpg)
+![Deber 6_page-0011](https://user-images.githubusercontent.com/116780907/213633833-b2fdf9d6-6899-43a0-993b-e8e0d92a67ff.jpg)
+![Deber 6_page-0012](https://user-images.githubusercontent.com/116780907/213633874-4e3c922a-e8e8-424e-81e8-86ea18ed36f8.jpg)
+![Deber 6_page-0013](https://user-images.githubusercontent.com/116780907/213633958-bad54f07-340e-4147-bcb3-894a48670d6b.jpg)
+![Deber 6_page-0014](https://user-images.githubusercontent.com/116780907/213633989-8598263d-2405-44ab-976f-c0f6edd69959.jpg)
+![Deber 6_page-0015](https://user-images.githubusercontent.com/116780907/213634043-0b64728e-8280-46f5-b9c2-33da8c3741da.jpg)
+![Deber 6_page-0016](https://user-images.githubusercontent.com/116780907/213634101-0498d4ac-0271-47ae-9fb8-9f04ed15a2d8.jpg)
 
 # Conclusiones
 - La amplitud de la onda senoidal representa la cantidad de corriente eléctrica que fluye en un circuito, mientras que la frecuencia representa el número de ciclos completos de la onda que ocurren en un segundo.
 - La corriente alterna es un tipo de corriente eléctrica en la que la dirección del flujo de electrones cambia constantemente de acuerdo a cambios de la polaridad del voltaje de fuente. 
 - El voltaje alterno es más adecuado para alimentar motores eléctricos debido a su capacidad para variar su frecuencia, lo que permite controlar la velocidad del motor, además dos fuentes comunes de ondas seno son el generador de ca electromagnético y el circuito oscilador electrónico. 
 - Los capacitores son componentes electrónicos que almacenan electricidad en un campo eléctrico y esto permite filtrar las señales de corriente alterna para permitir que solo pase la corriente continua deseada, además aumentan la eficiencia de la transmisión de energía.
+## Video 
+https://youtu.be/h5Qyy-FYA0
 
+## Bibliografía 
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos . México : PEARSON EDUCACIÓN.
